@@ -3,8 +3,10 @@ layout: recipe
 title: Gingerbread
 recipe-attribution: HungryJenny
 recipe-attribution-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
+image: http://farm4.staticflickr.com/3121/3117777526_6399dc0e08_q.jpg
+image-attribution: Deborah Lee Soltesz
+image-attribution-link: http://www.flickr.com/photos/dsoltesz/3117777526/
 ---
-
 Makes about 15 small cookies.
 
 ## Ingredients
@@ -25,6 +27,6 @@ Makes about 15 small cookies.
 2. Use your fingers to rub in the diced butter. Mix in the sugar.
 3. Mix the egg with the syrup then pour into the flour mixture. Fold in well to form a dough.
 4. Tip some flour onto the work surface and knead the dough until smooth.
-5. Preheat the oven to 180C
+5. Preheat the oven to 180C.
 6. Roll the dough out flat and use a shaped cutter to make as many cookies as you like.
 7. Transfer the cookies to a tray and bake in the oven for 15 minutes. Lightly dust the cookies with icing sugar.

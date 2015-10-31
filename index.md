@@ -1,14 +1,5 @@
 ---
-layout: default
-title: Home
+layout: home
+title: Christmas Recipes
+home: true
 ---
-
-is this thing on?
-
-This is new line...
-
-<br>
-<br>
-Updating it on the fly...
-<br>
-this is in index.md
