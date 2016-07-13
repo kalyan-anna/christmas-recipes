@@ -1,2 +1,2 @@
 # christmas-recipes
-christmas recipes menu
+A sample application to train the new team @ envitronicz.com
